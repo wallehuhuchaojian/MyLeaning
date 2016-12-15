@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyLeaning.iml" filepath="$PROJECT_DIR$/MyLeaning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyLeaning.iml" filepath="$PROJECT_DIR$/MyLeaning.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databinding/databinding.iml" filepath="$PROJECT_DIR$/databinding/databinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slideconflict/slideconflict.iml" filepath="$PROJECT_DIR$/slideconflict/slideconflict.iml" />
       <module fileurl="file://$PROJECT_DIR$/slideconflict/slideconflict.iml" filepath="$PROJECT_DIR$/slideconflict/slideconflict.iml" />
     </modules>
   </component>

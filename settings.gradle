@@ -1,1 +1,1 @@
-include ':app', ':slideconflict'
+include ':app', ':slideconflict', ':databinding'
